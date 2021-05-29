@@ -10,7 +10,11 @@ Testing (GitHub Actions): [https://github.com/A-TEAM-401/auth-api-CLI/actions](h
 
 ## Overview and Description
 
-This is a command line interface (CLI) application built in Node.js and uses Basic and Bearer authorization to sign up and sign in users, then presents the user with a prompt to create, update, or delete a note. The notes are saved to the user's account, and the full list of notes is displayed back to the user when the user selects options to either update or delete a note. The application uses the Node package dependencies Chalk Animation and Figlet to create beautiful rainbow colored ASCII art in the terminal. The server is deployed to heroku, so the cli app runs through the cli.js file and sends requests to our deployed server.
+This is a command line interface (CLI) application built in Node.js and uses Basic and Bearer authorization to sign up and sign in users, then presents the user with a prompt to create, update, or delete a note. The notes are saved to the user's account, and the full list of notes is displayed back to the user when the user selects options to either update or delete a note. The application uses the Node package dependencies Chalk Animation and Figlet to create beautiful rainbow colored ASCII art in the terminal. The server is deployed to heroku, so the cli app runs through the cli.js file and sends requests to the deployed server.
+
+## Demo
+
+![auth-api-CLI](https://user-images.githubusercontent.com/45184464/120058153-c9e82f00-bffd-11eb-8fb9-5a4c323a54e1.mov)
 
 ## **Setup**
 
