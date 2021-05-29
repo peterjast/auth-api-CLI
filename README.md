@@ -14,7 +14,7 @@ This is a command line interface (CLI) application built in Node.js and uses Bas
 
 ## Demo
 
-![auth-api-CLI](https://user-images.githubusercontent.com/45184464/120058153-c9e82f00-bffd-11eb-8fb9-5a4c323a54e1.mov)
+![auth-api-CLI](https://user-images.githubusercontent.com/45184464/120058238-5bf03780-bffe-11eb-9c6b-9f7c245713f4.gif)
 
 ## **Setup**
 
