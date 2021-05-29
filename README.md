@@ -18,7 +18,7 @@ This is a command line interface (CLI) application built in Node.js and uses Bas
 
 ## **Setup**
 
-Clone the repository from the following link, and then follow the instructions in the sections below: [https://github.com/A-TEAM-401/auth-api-CLI](https://github.com/A-TEAM-401/auth-api-CLI)
+Clone the repository from the following link, and then follow the instructions in the sections below: [https://github.com/peterjast/auth-api-CLI.git](https://github.com/peterjast/auth-api-CLI.git)
 
 ## .env Requirements
 
