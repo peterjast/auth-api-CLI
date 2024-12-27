@@ -1,10 +1,6 @@
 # **auth-api-CLI**
 
-Authors: Peter Staker, Ted Knecht, Nicki Baldwin, Jessi Velazquez
-
 Deployed Link: [https://auth-api-cli.herokuapp.com/](https://auth-api-cli.herokuapp.com/)
-
-Pull Request: [https://github.com/A-TEAM-401/auth-api-CLI/pull/4](https://github.com/A-TEAM-401/auth-api-CLI/pull/4)
 
 Testing (GitHub Actions): [https://github.com/A-TEAM-401/auth-api-CLI/actions](https://github.com/A-TEAM-401/auth-api-CLI/actions)
 
